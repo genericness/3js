@@ -1,0 +1,1 @@
+import{j as o}from"./bcfr-c-BR5YjxXY.js";function e(){return o.jsx("div",{children:"looks like you tried to make a request to Scramjet but it didn't go through correctly - please report this in our discord server"})}export{e as component};
