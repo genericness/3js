@@ -1,0 +1,1 @@
+import{k as i}from"./cfux-c-LU2T1dNw.js";import"./cfux-c-CG77bgxl.js";let t=null;function s(){return t||(t=new i),t}async function f(e,c=8){try{const o=s(),r=`https://duckduckgo.com/ac/?q=${encodeURIComponent(e)}&type=list`,n=await o.fetch(r);return n.ok?(await n.json())[1]?.slice(0,c)||[]:[]}catch{return[]}}export{f as fetchAutocompleteSuggestions};
