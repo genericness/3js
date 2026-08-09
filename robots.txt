@@ -1,1 +1,8 @@
-robots
+User-Agent: *
+Disallow: /
+
+User-Agent: WellKnownBot
+Disallow: /
+
+User-agent: Mediapartners-Google
+Allow: /
