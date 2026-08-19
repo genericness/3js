@@ -1,0 +1,1 @@
+import{k as i}from"./dnxu-c-j6CUmjEk.js";import"./dnxu-c-CEx-N27J.js";let t=null;function s(){return t||(t=new i),t}async function f(e,c=8){try{const o=s(),r=`https://duckduckgo.com/ac/?q=${encodeURIComponent(e)}&type=list`,n=await o.fetch(r);return n.ok?(await n.json())[1]?.slice(0,c)||[]:[]}catch{return[]}}export{f as fetchAutocompleteSuggestions};
