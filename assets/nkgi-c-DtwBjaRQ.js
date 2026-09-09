@@ -1,0 +1,1 @@
+import{t as e}from"./nkgi-c-XxFI3vWa.js";export{e as CommunityAuthProvider};

@@ -1,0 +1,1 @@
+import{t as e}from"./nkgi-c-BB5AsaIC.js";export{e as GamesPageContent};
