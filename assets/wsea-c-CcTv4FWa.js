@@ -1,0 +1,1 @@
+import{t as e}from"./wsea-c-DFyPUK4j.js";export{e as GamesPageContent};
