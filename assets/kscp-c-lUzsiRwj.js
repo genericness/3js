@@ -1,0 +1,1 @@
+import{t as e}from"./kscp-c-Ddsb-NSs.js";export{e as CommunityAuthProvider};
