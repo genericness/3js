@@ -1,0 +1,1 @@
+import{t as e}from"./buqb-c-CZOuuCRA.js";var t=e;export{t as component};

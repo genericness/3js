@@ -1,0 +1,1 @@
+import{t as e}from"./buqb-c-CZOuuCRA.js";export{e as GamesPageContent};
