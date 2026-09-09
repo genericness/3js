@@ -1,0 +1,1 @@
+import{t as e}from"./kgbf-c-CB__K9Nx.js";export{e as GamesPageContent};
