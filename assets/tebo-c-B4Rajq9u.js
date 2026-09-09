@@ -1,0 +1,1 @@
+import{t as e}from"./tebo-c-CX4tPHUj.js";var t=e;export{t as component};
