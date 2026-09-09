@@ -1,0 +1,1 @@
+import{t as e}from"./nidi-c-7j7InOpA.js";var t=e;export{t as component};

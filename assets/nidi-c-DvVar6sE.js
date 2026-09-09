@@ -1,0 +1,1 @@
+import{t as e}from"./nidi-c-oTeyR02q.js";export{e as CommunityAuthProvider};
