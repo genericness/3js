@@ -1,0 +1,1 @@
+import{i as e}from"./iguo-c-Bo-RwM3m.js";var t=e();function n(){return(0,t.jsx)(`div`,{children:`looks like you tried to make a request to Scramjet but it didn't go through correctly - please report this in our discord server`})}export{n as component};

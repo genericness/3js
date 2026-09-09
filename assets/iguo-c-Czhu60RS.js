@@ -1,0 +1,1 @@
+import{t as e}from"./iguo-c-CdLGcI6g.js";var t=e;export{t as component};
