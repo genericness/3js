@@ -1,0 +1,1 @@
+import{t as e}from"./skct-c-CdDJwAn3.js";export{e as GamesPageContent};
