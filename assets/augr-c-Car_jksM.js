@@ -1,0 +1,1 @@
+import{t as e}from"./augr-c-BW3OkdWd.js";export{e as CommunityAuthProvider};
