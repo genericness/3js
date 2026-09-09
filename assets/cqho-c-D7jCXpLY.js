@@ -1,0 +1,1 @@
+import{a as e}from"./cqho-c-dxNPoXuf.js";var t=null;function n(){return t||=new e,t}async function r(e,t=8){try{let r=n(),i=`https://duckduckgo.com/ac/?q=${encodeURIComponent(e)}&type=list`,a=await r.fetch(i);return a.ok&&(await a.json())[1]?.slice(0,t)||[]}catch{return[]}}export{r as fetchAutocompleteSuggestions};
