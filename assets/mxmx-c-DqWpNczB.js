@@ -1,0 +1,1 @@
+import{t as e}from"./mxmx-c-DpmEFnls.js";var t=e;export{t as component};
