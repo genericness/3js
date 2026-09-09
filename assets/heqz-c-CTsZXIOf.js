@@ -1,0 +1,1 @@
+import{t as e}from"./heqz-c-CroYTJKN.js";export{e as GamesPageContent};
