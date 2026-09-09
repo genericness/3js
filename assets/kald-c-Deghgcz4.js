@@ -1,0 +1,1 @@
+import{t as e}from"./kald-c-HXbrbF-0.js";export{e as GamesPageContent};
