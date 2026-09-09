@@ -1,0 +1,1 @@
+import{t as e}from"./bgid-c-B9rh6JZ4.js";var t=e();export{t};

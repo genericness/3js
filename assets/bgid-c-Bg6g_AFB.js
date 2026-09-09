@@ -1,0 +1,1 @@
+import{t as e}from"./bgid-c-BlTbUxtR.js";export{e as CommunityAuthProvider};

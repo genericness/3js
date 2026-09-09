@@ -1,0 +1,1 @@
+import{t as e}from"./bgid-c-p8B1TeWh.js";var t=e;export{t as component};

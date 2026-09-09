@@ -1,0 +1,1 @@
+import{t as e}from"./bgid-c-DPQljr55.js";export{e as default};

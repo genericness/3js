@@ -1,0 +1,1 @@
+import{t as e}from"./bgid-c-BAWExTMS.js";export{e as default};
