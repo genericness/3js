@@ -1,0 +1,1 @@
+import{t as e}from"./kmxp-c-CtGc5h29.js";export{e as GamesPageContent};
