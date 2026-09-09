@@ -1,0 +1,1 @@
+import{t as e}from"./uxjp-c-G4zh6RDa.js";export{e as GamesPageContent};
