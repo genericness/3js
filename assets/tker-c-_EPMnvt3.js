@@ -1,0 +1,1 @@
+var e=`/x7k9m2p`,t=`${e}.html`;function n(){let e=window.__gladeBase||`/`,n=e.endsWith(`/`)?e:`${e}/`,r=t.slice(1);return new URL(`${n}${r}`,window.location.origin).toString()}export{e as n,n as r,t};

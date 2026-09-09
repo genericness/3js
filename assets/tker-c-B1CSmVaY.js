@@ -1,0 +1,1 @@
+import{t as e}from"./tker-c-BV5y3YKo.js";export{e as GamesPageContent};
