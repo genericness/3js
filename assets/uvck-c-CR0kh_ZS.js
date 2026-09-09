@@ -1,0 +1,1 @@
+import{t as e}from"./uvck-c-DML2vPbo.js";var t=e;export{t as component};
