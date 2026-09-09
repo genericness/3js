@@ -1,0 +1,1 @@
+import{t as e}from"./bcli-c-BUA-vKaK.js";export{e as GamesPageContent};
