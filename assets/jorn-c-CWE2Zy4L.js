@@ -1,0 +1,1 @@
+import{t as e}from"./jorn-c-DPjeskQ_.js";var t=e();export{t};

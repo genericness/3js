@@ -1,0 +1,1 @@
+import{t as e}from"./jorn-c-HuAKigly.js";export{e as default};
