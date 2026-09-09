@@ -1,0 +1,1 @@
+import{t as e}from"./migh-c-Dc-Z2idR.js";export{e as CommunityAuthProvider};

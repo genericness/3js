@@ -1,0 +1,1 @@
+import{t as e}from"./migh-c-BAdf9aMs.js";var t=e();export{t};

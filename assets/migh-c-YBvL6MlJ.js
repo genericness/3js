@@ -1,0 +1,1 @@
+import{t as e}from"./migh-c-HuAKigly.js";export{e as default};

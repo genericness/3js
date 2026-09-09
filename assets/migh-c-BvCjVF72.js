@@ -1,0 +1,1 @@
+import{t as e}from"./migh-c-CzFU0dpx.js";export{e as default};
