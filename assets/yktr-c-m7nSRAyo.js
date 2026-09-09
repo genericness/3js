@@ -1,0 +1,1 @@
+import{t as e}from"./yktr-c-CwIHOO5s.js";export{e as GamesPageContent};
