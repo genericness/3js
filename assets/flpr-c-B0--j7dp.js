@@ -1,0 +1,1 @@
+import{t as e}from"./flpr-c-B5L2mKRF.js";export{e as CommunityAuthProvider};
